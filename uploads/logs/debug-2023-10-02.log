@@ -1,0 +1,36 @@
+[02-Oct-2023 07:49:33 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 07:49:33 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 11:04:42 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 11:04:42 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 13:41:02 UTC] PHP Deprecated:  mb_strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 750
+[02-Oct-2023 13:41:27 UTC] PHP Deprecated:  mb_strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 750
+[02-Oct-2023 14:16:38 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:16:38 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:16:40 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:16:41 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:16:42 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:17:33 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:17:34 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:17:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:17:37 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:18:00 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:18:00 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:18:03 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:19:05 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:19:05 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:19:07 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:19:08 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:19:43 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:26:36 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:53:35 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:53:37 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:53:38 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:54:06 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/swiftwav/analytics.cyrixx.com/app/controllers/PixelTrack.php on line 94
+[02-Oct-2023 14:55:15 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 14:55:15 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 19:07:01 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 19:07:01 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 21:53:49 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 21:53:49 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 22:22:29 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[02-Oct-2023 22:22:29 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4

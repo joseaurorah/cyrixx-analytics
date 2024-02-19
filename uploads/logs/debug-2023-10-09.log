@@ -1,0 +1,16 @@
+[09-Oct-2023 00:11:17 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 00:11:17 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 07:35:21 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 07:35:21 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 09:47:48 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 09:47:48 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 15:22:57 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 15:22:57 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 17:22:11 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 17:22:11 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 18:25:07 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 18:25:07 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 21:15:50 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 21:15:50 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 21:15:53 UTC] PHP Warning:  Undefined property: stdClass::$guests_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
+[09-Oct-2023 21:15:53 UTC] PHP Warning:  Undefined property: stdClass::$users_content in /home/swiftwav/analytics.cyrixx.com/themes/altum/views/partials/announcements.php on line 4
